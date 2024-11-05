@@ -1,0 +1,90 @@
+html {
+  background: url(img/rainbowBG.jpg);
+}
+
+body {
+  background: white;
+  text-align: center;
+  padding: 25px 0;
+  width: 700px;
+  margin: 25px auto;
+  border-radius: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  letter-spacing: 2px;
+}
+
+hr {
+  width: 500px;
+}
+
+.rgb-code {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+input {
+  width: 60px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  text-align: center;
+}
+
+#redIn {
+  background: red;
+  color: WHITe;
+}
+
+#greenIn {
+  background: green;
+  color: white;
+}
+
+#blueIn {
+  background: blue;
+  color: white;
+}
+
+.display {
+  width: 400px;
+  height: 200px;
+  border-radius: 5px;
+  border: 3px solid grey;
+  background: yellow;
+  margin: auto;
+}
+
+button {
+  background: grey;
+  color: white;
+  border-radius: 100px;
+  padding: 5px 9.5px;
+  cursor: pointer;
+}
+
+button:hover {
+  color: #7cb58b;
+  background: black;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  letter-spacing: 2px;
+}
+
+.new-tegomin-regular {
+  font-family: "New Tegomin", serif;
+  font-weight: 400;
+  font-style: normal;
+}
